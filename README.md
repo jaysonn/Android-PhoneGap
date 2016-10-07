@@ -1,5 +1,5 @@
 # Android-PhoneGap
-在eclipse 中使用PhoneGap
+[在eclipse 中使用PhoneGap](http://leanote.com/blog/post/57bd468cab644135ea05d669)
 
 # PhoneGap是什么
 PhoneGap 是一个用基于 HTML， CSS 和 JavaScript 的，  创建移动跨平台移动应用程序的快速开发框架,PhoneGap 针对不同平台的 WebView 做了扩展和封装，使 WebView 这个组件变成可访问设备本地 API的强大浏览器，所以开发人员在 PhoneGap 框架下可通过 JavaScript 访问设备本地 API。
